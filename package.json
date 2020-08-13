@@ -65,7 +65,7 @@
     "qiniu": "^7.2.2",
     "query-string": "^6.8.3",
     "sass": "^1.23.7",
-    "serialize-javascript": "^2.1.0",
+    "serialize-javascript": "^3.1.0",
     "serve-favicon": "^2.5.0",
     "style-loader": "^1.0.0",
     "typeface-roboto": "0.0.75",
